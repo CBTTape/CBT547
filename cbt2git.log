@@ -1,0 +1,16 @@
+2023-08-06 05:09:43.313658 - Initialized conversion of CBT547
+2023-08-06 05:09:44.199480 - Received CBT.V505.FILE547.PDS from FILE547.XMI 
+2023-08-06 05:09:44.201853 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:09:44.202793 - Found $$$NOTE.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/$$$NOTE
+2023-08-06 05:09:44.203874 - Found $$$NOTE1.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/$$$NOTE1
+2023-08-06 05:09:44.204827 - Found $$$NOTE2.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/$$$NOTE2
+2023-08-06 05:09:44.205704 - Found $$$NOTE3.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/$$$NOTE3
+2023-08-06 05:09:44.206715 - Found $SYSGEN1.jcl (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/$SYSGEN1
+2023-08-06 05:09:44.207682 - Found @FILE547.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/@FILE547
+2023-08-06 05:09:44.209463 - Found ASM.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/ASM
+2023-08-06 05:09:44.273018 - Found CMDSBSYS.xmi (application/xmit) in CBT.V505.FILE547.PDS
+2023-08-06 05:09:44.319994   - Received RECFM=U data, stored XMIT file as CBT547/CMDSBSYS.xmi
+2023-08-06 05:09:44.321135 - Found CNTL.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/CNTL
+2023-08-06 05:09:44.429585 - Found LOAD.xmi (application/xmit) in CBT.V505.FILE547.PDS
+2023-08-06 05:09:44.458934   - Received RECFM=U data, stored XMIT file as CBT547/LOAD.xmi
+2023-08-06 05:09:44.460024 - Found MACLIB.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/MACLIB
