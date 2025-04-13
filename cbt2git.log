@@ -1,0 +1,82 @@
+2025-04-13 20:38:00.011921 - Received CBT.V505.FILE547.PDS from FILE547.XMI 
+2025-04-13 20:38:00.013043 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/$$$#DATE
+2025-04-13 20:38:00.013140 - Found $$$NOTE.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/$$$NOTE
+2025-04-13 20:38:00.013232 - Found $$$NOTE1.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/$$$NOTE1
+2025-04-13 20:38:00.013315 - Found $$$NOTE2.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/$$$NOTE2
+2025-04-13 20:38:00.013395 - Found $$$NOTE3.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/$$$NOTE3
+2025-04-13 20:38:00.013508 - Found $SYSGEN1.jcl (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/$SYSGEN1
+2025-04-13 20:38:00.013606 - Found @FILE547.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/@FILE547
+2025-04-13 20:38:00.014827 - Found ASM.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/ASM
+2025-04-13 20:38:00.015048 - Found CMDSBSYS.xmi (application/xmit) in CBT.V505.FILE547.PDS, moved to PDS/CMDSBSYS.xmi
+2025-04-13 20:38:00.083791 - Received SBGOLOB.MVS38J.CMDSBSYS from CMDSBSYS.xmi 
+2025-04-13 20:38:00.085097 - Found CMDDUMMY.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CMDDUMMY
+2025-04-13 20:38:00.085176 - Found CMDPRINT.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CMDPRINT
+2025-04-13 20:38:00.085244 - Found CMDSBCSC.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CMDSBCSC
+2025-04-13 20:38:00.085304 - Found CMDSBINT.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CMDSBINT
+2025-04-13 20:38:00.085376 - Found CMDSBMON.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CMDSBMON
+2025-04-13 20:38:00.085436 - Found CMDSBSYS.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CMDSBSYS
+2025-04-13 20:38:00.085506 - Found CMDSBTSO.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CMDSBTSO
+2025-04-13 20:38:00.085565 - Found CMDTSO.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CMDTSO
+2025-04-13 20:38:00.085626 - Found CSCGA03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCGA03D
+2025-04-13 20:38:00.085688 - Found CSCGE03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCGE03D
+2025-04-13 20:38:00.085745 - Found CSCGF03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCGF03D
+2025-04-13 20:38:00.085818 - Found CSCGH03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCGH03D
+2025-04-13 20:38:00.085884 - Found CSCGI03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCGI03D
+2025-04-13 20:38:00.085946 - Found CSCGJ03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCGJ03D
+2025-04-13 20:38:00.086008 - Found CSCGO03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCGO03D
+2025-04-13 20:38:00.086066 - Found CSCGQ03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCGQ03D
+2025-04-13 20:38:00.086144 - Found CSCGS03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCGS03D
+2025-04-13 20:38:00.086205 - Found CSCGU03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCGU03D
+2025-04-13 20:38:00.086263 - Found CSCSA03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSA03D
+2025-04-13 20:38:00.086322 - Found CSCSB03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSB03D
+2025-04-13 20:38:00.086378 - Found CSCSC03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSC03D
+2025-04-13 20:38:00.086437 - Found CSCSD03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSD03D
+2025-04-13 20:38:00.086494 - Found CSCSE03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSE03D
+2025-04-13 20:38:00.086550 - Found CSCSF03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSF03D
+2025-04-13 20:38:00.086607 - Found CSCSG03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSG03D
+2025-04-13 20:38:00.086665 - Found CSCSH03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSH03D
+2025-04-13 20:38:00.086723 - Found CSCSI03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSI03D
+2025-04-13 20:38:00.086781 - Found CSCSJ03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSJ03D
+2025-04-13 20:38:00.086854 - Found CSCSK03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSK03D
+2025-04-13 20:38:00.086916 - Found CSCSL03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSL03D
+2025-04-13 20:38:00.086989 - Found CSCSM03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSM03D
+2025-04-13 20:38:00.087069 - Found CSCSN03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSN03D
+2025-04-13 20:38:00.087129 - Found CSCSO03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSO03D
+2025-04-13 20:38:00.087191 - Found CSCSP03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSP03D
+2025-04-13 20:38:00.087249 - Found CSCSQ03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSQ03D
+2025-04-13 20:38:00.087308 - Found CSCSR03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSR03D
+2025-04-13 20:38:00.087366 - Found CSCSS03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSS03D
+2025-04-13 20:38:00.087424 - Found CSCSZ03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCSZ03D
+2025-04-13 20:38:00.087483 - Found CSCZA03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCZA03D
+2025-04-13 20:38:00.087540 - Found CSCZB03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCZB03D
+2025-04-13 20:38:00.087601 - Found CSCZC03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCZC03D
+2025-04-13 20:38:00.087660 - Found CSCZJ03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCZJ03D
+2025-04-13 20:38:00.087718 - Found CSCZP03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCZP03D
+2025-04-13 20:38:00.087776 - Found CSCZS03D.bin (application/octet-stream) in SBGOLOB.MVS38J.CMDSBSYS, moved to CMDSBSYS/CSCZS03D
+2025-04-13 20:38:00.088637 - Found CNTL.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/CNTL
+2025-04-13 20:38:00.089219 - Found LOAD.xmi (application/xmit) in CBT.V505.FILE547.PDS, moved to PDS/LOAD.xmi
+2025-04-13 20:38:00.199737 - Received SBGOLOB.VOLKER1.LOAD from LOAD.xmi 
+2025-04-13 20:38:00.200623 - Found BRODSCAN.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/BRODSCAN
+2025-04-13 20:38:00.200711 - Found BSPAPFCK.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/BSPAPFCK
+2025-04-13 20:38:00.200787 - Found BSPAPFLS.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/BSPAPFLS
+2025-04-13 20:38:00.201319 - Found BSPFCOOK.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/BSPFCOOK
+2025-04-13 20:38:00.201390 - Found BSPOSCMD.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/BSPOSCMD
+2025-04-13 20:38:00.201450 - Found BSPPA2SI.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/BSPPA2SI
+2025-04-13 20:38:00.201513 - Found BSPPILOT.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/BSPPILOT
+2025-04-13 20:38:00.201576 - Found BSPRUNSC.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/BSPRUNSC
+2025-04-13 20:38:00.201637 - Found BSPSETPF.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/BSPSETPF
+2025-04-13 20:38:00.201696 - Found BSPVTMWT.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/BSPVTMWT
+2025-04-13 20:38:00.201769 - Found CBT973.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/CBT973
+2025-04-13 20:38:00.201841 - Found alias COOKIE to BSPFCOOK in SBGOLOB.VOLKER1.LOAD, moved to PDS/COOKIE
+2025-04-13 20:38:00.201914 - Found DELAY.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/DELAY
+2025-04-13 20:38:00.201991 - Found DISKMAP.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/DISKMAP
+2025-04-13 20:38:00.202056 - Found DISKMAPA.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/DISKMAPA
+2025-04-13 20:38:00.202103 - Found alias FCOOKIE to BSPFCOOK in SBGOLOB.VOLKER1.LOAD, moved to PDS/FCOOKIE
+2025-04-13 20:38:00.202150 - Found alias FORTUNE to BSPFCOOK in SBGOLOB.VOLKER1.LOAD, moved to PDS/FORTUNE
+2025-04-13 20:38:00.202211 - Found MOVELOAD.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/MOVELOAD
+2025-04-13 20:38:00.202257 - Found alias MOVELOD to MOVELOAD in SBGOLOB.VOLKER1.LOAD, moved to PDS/MOVELOD
+2025-04-13 20:38:00.202285 - Found alias MURPHY to BSPFCOOK in SBGOLOB.VOLKER1.LOAD, moved to PDS/MURPHY
+2025-04-13 20:38:00.202341 - Found REQUEUE.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/REQUEUE
+2025-04-13 20:38:00.202417 - Found SMPTFSEL.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/SMPTFSEL
+2025-04-13 20:38:00.202478 - Found TAPEHDR.bin (application/octet-stream) in SBGOLOB.VOLKER1.LOAD, moved to LOAD/TAPEHDR
+2025-04-13 20:38:00.203071 - Found MACLIB.txt (text/plain) in CBT.V505.FILE547.PDS, moved to PDS/MACLIB
